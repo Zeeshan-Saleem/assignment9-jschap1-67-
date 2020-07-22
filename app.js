@@ -562,7 +562,7 @@
 
 
 
-// task 31 -34
+// chap 31 -34
 // task 1
 // var a = new Date;
 // document.write(a)
@@ -1039,6 +1039,40 @@
 
 
     // }
+
+
+
+
+// chap 52 to 57
+
+// function display(e){
+//     console.log(e)
+//     var modalimage = document.getElementById("modalImage")
+//     modalimage.src = e.src
+//     // var modal =document.getElementsByClassName("modal")
+     
+// }
+// var width = 450;
+// var height = 500;
+// var diff = 10;
+// function zoomin(c){
+//     width = width + diff
+//     height = height +diff
+//     document.getElementById("modalImage").style.height = height+"px";
+//     document.getElementById("modalImage").style.width = width+"px";
+//     console.log(width)
+// }
+
+
+// function zoomout(d){
+//     width = width - diff
+//     height = height - diff
+//     document.getElementById("modalImage").style.width = width+"px";
+//     document.getElementById("modalImage").style.height = height+"px";
+//     console.log(width)
+// }
+
+
 
 // chap 58 to 67
 // (I)
